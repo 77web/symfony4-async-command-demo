@@ -41,6 +41,18 @@
             "ref": "70062abc2cd58794d2a90274502f81b55cd9951b"
         }
     },
+    "enqueue/async-command": {
+        "version": "0.9.0"
+    },
+    "enqueue/dsn": {
+        "version": "0.9.0"
+    },
+    "enqueue/enqueue": {
+        "version": "0.9.1"
+    },
+    "enqueue/null": {
+        "version": "0.9.0"
+    },
     "facebook/webdriver": {
         "version": "1.6.0"
     },
@@ -67,6 +79,15 @@
     },
     "psr/simple-cache": {
         "version": "1.0.0"
+    },
+    "queue-interop/amqp-interop": {
+        "version": "0.8.0"
+    },
+    "queue-interop/queue-interop": {
+        "version": "0.7.1"
+    },
+    "ramsey/uuid": {
+        "version": "3.8.0"
     },
     "sensio/framework-extra-bundle": {
         "version": "4.0",
