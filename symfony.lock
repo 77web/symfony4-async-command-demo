@@ -50,6 +50,24 @@
     "enqueue/enqueue": {
         "version": "0.9.1"
     },
+    "enqueue/enqueue-bundle": {
+        "version": "0.9",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "master",
+            "version": "0.9",
+            "ref": "5e050bc7766f0b5e9353c2079689cbcc60617891"
+        }
+    },
+    "enqueue/fs": {
+        "version": "0.8",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "master",
+            "version": "0.8",
+            "ref": "7a761fe7f7799f4a603f09d2d85a7253743dd592"
+        }
+    },
     "enqueue/null": {
         "version": "0.9.0"
     },
@@ -58,6 +76,9 @@
     },
     "fig/link-util": {
         "version": "1.0.0"
+    },
+    "makasim/temp-file": {
+        "version": "0.2.0"
     },
     "monolog/monolog": {
         "version": "1.23.0"

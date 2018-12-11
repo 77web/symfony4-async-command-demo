@@ -6,6 +6,8 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "enqueue/async-command": "^0.9",
+        "enqueue/enqueue-bundle": "^0.9.1",
+        "enqueue/fs": "^0.9.1",
         "sensio/framework-extra-bundle": "^5.1",
         "symfony/asset": "4.2.*",
         "symfony/dotenv": "4.2.*",
